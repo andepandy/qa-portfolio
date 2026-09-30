@@ -52,12 +52,12 @@ Modern AI-shaped web QA: natural-language intents on Playwright, self-healing lo
 
 Product repos worked on jointly. Full collaborator index: [joint-projects](https://github.com/andepandy/joint-projects).
 
-| Repository | Stack | Visibility | Notes |
+| Repository | Board | Test | Prod |
 | --- | --- | --- | --- |
-| [car-connect](https://github.com/andepandy/car-connect) | TypeScript | Private | Car Connect app |
-| [kulimaapp](https://github.com/andepandy/kulimaapp) | TypeScript | Public | Kulima app |
-| [fleet-foxx-white](https://github.com/andepandy/fleet-foxx-white) | TypeScript | Private | Fleet Fox (main) |
-| [fleet-fox-web](https://github.com/andepandy/fleet-fox-web) | TypeScript | Private | Fleet Fox web |
+| [car-connect](https://github.com/andepandy/car-connect) | [Issues](https://github.com/andepandy/car-connect/issues) · [Projects](https://github.com/andepandy/car-connect/projects) | Dokploy staging (`Staging` branch; public DNS TBD) | [car-connect.online](https://car-connect.online) (configured; DNS not live yet) |
+| [kulimaapp](https://github.com/andepandy/kulimaapp) | [Issues](https://github.com/andepandy/kulimaapp/issues) · [Projects](https://github.com/andepandy/kulimaapp/projects) | — | [kulimaapp.org](https://kulimaapp.org) |
+| [fleet-foxx-white](https://github.com/andepandy/fleet-foxx-white) | [Issues](https://github.com/andepandy/fleet-foxx-white/issues) · [Projects](https://github.com/andepandy/fleet-foxx-white/projects) | [staging.fleet-fox.com](https://staging.fleet-fox.com) | [client.fleet-fox.com](https://client.fleet-fox.com) |
+| [fleet-fox-web](https://github.com/andepandy/fleet-fox-web) | [Issues](https://github.com/andepandy/fleet-fox-web/issues) · [Projects](https://github.com/andepandy/fleet-fox-web/projects) | — | [fleet-fox.com](https://fleet-fox.com) |
 
 ### Mobile e2e open source projects
 
