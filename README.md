@@ -54,7 +54,7 @@ Product repos worked on jointly. Full collaborator index: [joint-projects](https
 
 | Repository | Board | Test | Prod |
 | --- | --- | --- | --- |
-| [car-connect](https://github.com/andepandy/car-connect) | [Issues](https://github.com/andepandy/car-connect/issues) · [Projects](https://github.com/andepandy/car-connect/projects) | Dokploy staging (`Staging` branch; public DNS TBD) | [car-connect.online](https://car-connect.online) (configured; DNS not live yet) |
+| [car-connect](https://github.com/andepandy/car-connect) | [Issues](https://github.com/andepandy/car-connect/issues) · [Projects](https://github.com/andepandy/car-connect/projects) | [staging web](http://carconnect-carconnectweb-ubldy4-f0005d-94-72-105-23.sslip.io) · [staging api](http://carconnect-carconnectapi-5n3hsy-978f67-94-72-105-23.sslip.io) | [car-connect.online](https://car-connect.online) (configured; DNS not live yet) |
 | [kulimaapp](https://github.com/andepandy/kulimaapp) | [Issues](https://github.com/andepandy/kulimaapp/issues) · [Projects](https://github.com/andepandy/kulimaapp/projects) | — | [kulimaapp.org](https://kulimaapp.org) |
 | [fleet-foxx-white](https://github.com/andepandy/fleet-foxx-white) | [Issues](https://github.com/andepandy/fleet-foxx-white/issues) · [Projects](https://github.com/andepandy/fleet-foxx-white/projects) | [staging.fleet-fox.com](https://staging.fleet-fox.com) | [client.fleet-fox.com](https://client.fleet-fox.com) |
 | [fleet-fox-web](https://github.com/andepandy/fleet-fox-web) | [Issues](https://github.com/andepandy/fleet-fox-web/issues) · [Projects](https://github.com/andepandy/fleet-fox-web/projects) | — | [fleet-fox.com](https://fleet-fox.com) |
