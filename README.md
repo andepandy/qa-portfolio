@@ -58,6 +58,7 @@ Product repos worked on jointly. Full collaborator index: [joint-projects](https
 | [kulimaapp](https://github.com/andepandy/kulimaapp) | [Issues](https://github.com/andepandy/kulimaapp/issues) · [Projects](https://github.com/andepandy/kulimaapp/projects) | — | [kulimaapp.org](https://kulimaapp.org) |
 | [fleet-foxx-white](https://github.com/andepandy/fleet-foxx-white) | [Issues](https://github.com/andepandy/fleet-foxx-white/issues) · [Projects](https://github.com/andepandy/fleet-foxx-white/projects) | [staging.fleet-fox.com](https://staging.fleet-fox.com) | [client.fleet-fox.com](https://client.fleet-fox.com) |
 | [fleet-fox-web](https://github.com/andepandy/fleet-fox-web) | [Issues](https://github.com/andepandy/fleet-fox-web/issues) · [Projects](https://github.com/andepandy/fleet-fox-web/projects) | — | [fleet-fox.com](https://fleet-fox.com) |
+| [Mailserver](https://github.com/andepandy/Mailserver) | [Issues](https://github.com/andepandy/Mailserver/issues) · [Projects](https://github.com/andepandy/Mailserver/projects) | — | Stalwart + Roundcube (e.g. `mail.nowancodes.com`) |
 
 ### Mobile e2e open source projects
 
