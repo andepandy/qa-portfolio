@@ -50,7 +50,7 @@ Modern AI-shaped web QA: natural-language intents on Playwright, self-healing lo
 
 ## Shared codebases
 
-Product repos worked on jointly. Full collaborator index: [joint-projects](https://github.com/andepandy/joint-projects).
+Product repos worked on jointly. Full collaborator index + **[Joint Board](https://github.com/andepandy/joint-projects#joint-board)**: [joint-projects](https://github.com/andepandy/joint-projects).
 
 | Repository | Board | Test | Prod |
 | --- | --- | --- | --- |
