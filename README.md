@@ -48,6 +48,17 @@ Modern AI-shaped web QA: natural-language intents on Playwright, self-healing lo
 | --- | --- | --- |
 | [ai-playwright-web-qa](https://github.com/andepandy/ai-playwright-web-qa) | Playwright, TypeScript, intent agent, self-healing locators | The Internet login + Automation Exercise search via `ai.act(...)` |
 
+## Shared codebases
+
+Product repos worked on jointly. Full collaborator index: [joint-projects](https://github.com/andepandy/joint-projects).
+
+| Repository | Stack | Visibility | Notes |
+| --- | --- | --- | --- |
+| [car-connect](https://github.com/andepandy/car-connect) | TypeScript | Private | Car Connect app |
+| [kulimaapp](https://github.com/andepandy/kulimaapp) | TypeScript | Public | Kulima app |
+| [fleet-foxx-white](https://github.com/andepandy/fleet-foxx-white) | TypeScript | Private | Fleet Fox (main) |
+| [fleet-fox-web](https://github.com/andepandy/fleet-fox-web) | TypeScript | Private | Fleet Fox web |
+
 ### Mobile e2e open source projects
 
 Contributions to [MetaMask Mobile](https://github.com/MetaMask/metamask-mobile) under [Andepande](https://github.com/Andepande) — Detox-era e2e, API mocking, CI parallelism, and reliability work. The repo has since moved primary smoke coverage toward Appium; the commits below show the Detox and platform work shipped on `main`.
